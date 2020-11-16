@@ -1,5 +1,5 @@
 # DeepUnsupervisedLearning
 
-The following unsupervised techniques are implemented in PyTorch
--[ ] MADE - Masked AutoEncoder for Density Estimation
+The following unsupervised techniques are implemented in PyTorch:    
+- [X] MADE - Masked AutoEncoder for Density Estimation
 
